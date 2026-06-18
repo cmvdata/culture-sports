@@ -9,5 +9,7 @@ Short analytical essays by Carlo Vilches applying economics and quantitative rea
 | [You Can't ABX a Memory](you_cant_abx_a_memory.pdf) | New Order's "Bizarre Love Triangle," Glastonbury 1987 vs 2016 |
 | [Was Cumbia Villera Invented in a Yamaha Office in Hamamatsu?](cumbia_villera_hamamatsu.pdf) | An aesthetics of limitation and the "fertile error" |
 | [What Does a Country Buy When It Buys Back a Ball?](buying_back_a_ball.pdf) | The 1966 ball and the symbolic economy of English football |
+| [Mexico '86, Marx and the Hand of God](mexico86_hand_of_god.pdf) | How a symbol makes a price and an enemy in the same gesture |
+| [Answered to Its Face](haka_open_game.pdf) | The haka and the open game |
 
 A related essay, *Relaxing the Offside Law in Association Football*, lives in [cmvdata/offside](https://github.com/cmvdata/offside).
